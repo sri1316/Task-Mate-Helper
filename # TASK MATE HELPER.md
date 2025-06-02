@@ -26,7 +26,7 @@ The Tasks can be *edited/modified* and *mark as completed once done*. It even pr
 5. Click **Save**  to save the task
 6. The Task will Appear on the Left side on the page
 
-### 📝 Mofify 
+### 📝 Modify a Task 
 
 1. To **Edit** an existing Task click on the Tasks that appear on the Left side of your screen
 2. Clicking a Task will bring up all the details of the Task
