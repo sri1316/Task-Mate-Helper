@@ -10,7 +10,7 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 ### Getting Started
 
 1. Open the browser on your system (Chrome,Firefox, Edge etc)
-2. Type in https://www.taskmatehelper.com in your browser
+2. Visit [https://www.taskmatehelper.com]( https://www.taskmatehelper.com 
 2. Click on the register new user link below the login button
 3. Create a new user Id by providing an email Id and password
 4. An email will be sent to the registered email address
