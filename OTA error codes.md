@@ -6,4 +6,5 @@ This document explains the various available error codes and throubleshooting op
 ## Error Codes
 
 |Error Code|Error|Troubleshooting|
+
 |---|---|---|---|
