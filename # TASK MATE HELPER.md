@@ -56,7 +56,6 @@ The Tasks can be *edited/modified* and *mark as completed once done*. It even pr
 ### ⁉️ FAQ's 
 
     Q. Can This app work on my mobile device as well?
-    
     A: Yes, Absolutely! It can definiteky be accessed on your mobile phonec
 
     Q: How does the reminder system work?
