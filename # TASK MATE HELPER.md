@@ -55,19 +55,22 @@ The Tasks can be *edited/modified* and *mark as completed once done*. It even pr
 
 ### ⁉️ FAQ's 
 
-1. Q. Can This app work on my mobile device as well?
+    Q. Can This app work on my mobile device as well?
+    
     A: Yes, Absolutely! It can definiteky be accessed on your mobile phonec
 
-2. 
     Q: How does the reminder system work?
+    
     A: The reminders are sent via email one day prior to the task completion date.
 
-3. 
+ 
     Q: Can I access my tass via reminder email?
+    
     A: Yes. There will be a link that opens up the task on teh browser. But you will need to login using your credentials first.
 
-4. 
+ 
     Q: Is there a limit to the number of Tasks I can create?
+    
     A: Absolutely not!! you can create as many as you need.
 
     
