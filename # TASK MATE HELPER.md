@@ -28,14 +28,14 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 
 ### 📝 Modify a Task 
 
-1. To **Edit** an existing Task click on the Tasks that appear on the Left side of your screen
-2. Clicking a Task will bring up all the details of the Task
-3. Edit the Task
-4. Click **Save**  to save the task 
+1. Click on the Tasks that appear on the Left sidebar
+2. Clicking a Task will bring up all the details of the Task on the right.
+3. Make changes to the Task
+4. Click **Save**  to update the task.
 
 ### 🗑️ Delete a Task
 
-1. To **Delete** an existing Task click on the Tasks that appear on the Left side of your screen
+1.Click on the Tasks that appear on the Left sidebar
 2. Clicking a Task will bring up all the details of the Task
 3. Click on the Delete 🗑️ button om the bottom of the Task details 
 4. Click on Yes on the confirmation box
@@ -44,8 +44,8 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 ## ✅ Marking a Task as Completed
 
 1. Select an existing Task.
-2. If the Task in completed, select the Mark as Complete Button right next to the Save and Delete Buttons.
-3. The Task gets Saved and changes the color as it appears on the left hand side of the screen
+2. If the Task in completed, select the **Mark as Complete Button** right next to the Save/Delete Buttons.
+3. The Task gets Saved and changes the color as it appears on the left hand sidebar
 
 ### 🔍 Filter Tasks
 
