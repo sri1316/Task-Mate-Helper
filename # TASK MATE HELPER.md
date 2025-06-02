@@ -67,7 +67,7 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 - **Q: Is there a limit to the number of tasks I can create?**  
   **A:** Absolutely not! You can create as many tasks as you need.
 
-- **Q: Is there a limit to the number of Tasks I can create?**
+- **Q: Is there a limit to the number of Tasks I can create?**  
   **A:** Absolutely not!! you can create as many as you need.
 
 
