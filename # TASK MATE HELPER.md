@@ -70,7 +70,22 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 **Q: Is there a limit to the number of Tasks I can create?**
 
 **A:** Absolutely not!! you can create as many as you need.
-    
+
+
+### ❓ FAQs Test
+
+- **Q: Can this app work on mobile devices?**  
+  **A:** Yes! Task Mate is mobile-friendly and works across all modern devices.
+
+- **Q: How does the reminder system work?**  
+  **A:** You’ll receive an email reminder one day before the due date.
+
+- **Q: Can I access a task through the reminder email?**  
+  **A:** Yes, the email contains a link to open the task in your browser. You’ll need to log in first.
+
+- **Q: Is there a limit to the number of tasks I can create?**  
+  **A:** Absolutely not! Create as many tasks as you need.
+
 
 
 
