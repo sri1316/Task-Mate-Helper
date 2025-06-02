@@ -12,14 +12,14 @@ A 🚗Car with an  **Infotainment Syetem** that is updated to the latest version
 ### 📱On a Mobile Device
 
 1. Open the Drive Connect App on your device
-2. Go to **Settings --> Voice Mate --> Enable Toggle**
+2. Go to **Settings → VoiceMate → Enable Voice Assistant****
 3. *Please ensure that you are connected to the Internet*
 4. On Successful set up , you will hear *VoiceMate is ready to help you*
 5. The **Activation Command** is *Hey Voicemate*
    
 ### 🚗On the Infotainment Screen from your Car
 
-1. Tap Settings → VoiceMate → Enable Voice Assistant
+1. Tap **Settings → VoiceMate → Enable Voice Assistant**
 2. Accept terms and conditions
 3. Toggle switch to ON
 4. On Successful set up , you will hear *VoiceMate is ready to help you*
