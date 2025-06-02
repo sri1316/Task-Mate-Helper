@@ -55,8 +55,7 @@ The Tasks can be *edited/modified* and *mark as completed once done*. It even pr
 
 ### ⁉️ FAQ's 
 
-1. 
-    Q. Can This app work on my mobile device as well?
+1. Q. Can This app work on my mobile device as well?
     A: Yes, Absolutely! It can definiteky be accessed on your mobile phonec
 
 2. 
