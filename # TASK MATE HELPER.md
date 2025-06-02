@@ -1,0 +1,77 @@
+# TASK MATE
+
+## User Guide 
+
+### Introduction
+
+This App is used to create Tasks and organize them in a dated manner
+The Tasks can be *edited/modified* and *mark as completed once done*. It even provides *alert emails* one day prior to the due date.
+
+### Getting Started
+
+1. Open the browser on your system (Chrome,Firefox, Edge etc)
+2. Type in https://www.taskmatehelper.com in your browser
+2. Click on the register new user link below the login button
+3. Create a new user Id by providing an email Id and password
+4. An email will be sent to the registered email address
+5. Click on the link provided in the email to activate your account
+6. You are now logged in.
+
+###🆕 Creating a new Task
+
+1. Click on the **New Task** 📃 on the top right corner od the screen
+2. Write in the Task Name in the field provided
+3. In the Description Section add futher details if any
+4. select the Due Date for the Task
+5. Click **Save**  to save the task
+6. The Task will Appear on the Left side on the page
+
+###📝 Mofify 
+
+1. To **Edit** an existing Task click on the Tasks that appear on the Left side of your screen
+2. Clicking a Task will bring up all the details of the Task
+3. Edit the Task
+4. Click **Save**  to save the task 
+
+###🗑️ Delete a Task
+
+1. To **Delete** an existing Task click on the Tasks that appear on the Left side of your screen
+2. Clicking a Task will bring up all the details of the Task
+3. Click on the Delete 🗑️ button om the bottom of the Task details 
+4. Click on Yes on the confirmation box
+5. The task gets deleted
+
+###✅ Marking a Task as Completed
+
+1. Select an existing Task.
+2. If the Task in completed, select the Mark as Complete Button right next to the Save and Delete Buttons.
+3. The Task gets Saved and changes the color as it appears on the left hand side of the screen
+
+### 🔍 Filter Tasks
+
+1. On the Left Panel of your page are the Tasks that have been created.
+2. To Fiter the Tasks, selectn either  *All* or *Completed* or *Pending* from the Dropdown
+3. The Tasks will be filtered according to the optoin selected
+
+### ⁉️ FAQ's 
+
+1. 
+    Q. Can This app work on my mobile device as well?
+    A: Yes, Absolutely! It can definiteky be accessed on your mobile phonec
+
+2. 
+    Q: How does the reminder system work?
+    A: The reminders are sent via email one day prior to the task completion date.
+
+3. 
+    Q: Can I access my tass via reminder email?
+    A: Yes. There will be a link that opens up the task on teh browser. But you will need to login using your credentials first.
+
+4. 
+    Q: Is there a limit to the number of Tasks I can create?
+    A: Absolutely not!! you can create as many as you need.
+
+    
+
+
+
