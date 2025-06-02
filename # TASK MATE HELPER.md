@@ -4,8 +4,8 @@
 
 ### Introduction
 
-This App is used to create Tasks and organize them in a dated manner
-The Tasks can be *edited/modified* and *mark as completed once done*. It even provides *alert emails* one day prior to the due date.
+This App is used to create Tasks and organize them in a dated manner.
+The Tasks can be *edited/modified* and *mark as completed* once done. It even provides *alert emails* one day prior to the due date.
 
 ### Getting Started
 
