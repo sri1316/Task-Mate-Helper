@@ -71,7 +71,7 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 
 ### ❓ FAQs Test
 
-- **Q: Can this app work on mobile devices?**  
+- **Q: Can this app work on mobile devices?** 
   **A:** Yes! Task Mate is mobile-friendly and works across all modern devices.
 
 - **Q: How does the reminder system work?**  
