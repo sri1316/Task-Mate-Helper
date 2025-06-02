@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This App is used to create Tasks and organize them in a dated manner.
+**TASK MATE** App is used to Create , Manage and Organize Tasks according to the Date.
 The Tasks can be *edited/modified* and *mark as completed* once done. It even provides *alert emails* one day prior to the due date.
 
 ### Getting Started
@@ -20,11 +20,11 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 ### 🆕 Creating a new Task
 
 1. Click on the **New Task** 📃 on the top right corner od the screen
-2. Write in the Task Name in the field provided
-3. In the Description Section add futher details if any
-4. select the Due Date for the Task
+2. Write in the **Task Name** in the field provided
+3. In the **Description** field add futher details if any
+4. select the **Due Date** for the Task
 5. Click **Save**  to save the task
-6. The Task will Appear on the Left side on the page
+6. The Task will Appear on the Left sidebar
 
 ### 📝 Modify a Task 
 
