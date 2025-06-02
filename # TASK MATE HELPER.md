@@ -65,7 +65,7 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
     **A:** Yes. There will be a link that opens up the task on teh browser. But you will need to login using your credentials 
         first.
 
-- **Q: Is there a limit to the number of Tasks I can create?**
+- **Q: Is there a limit to the number of Tasks I can create?**  
     **A:** Absolutely not!! you can create as many as you need.
 
 
