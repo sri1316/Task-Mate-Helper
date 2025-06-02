@@ -17,7 +17,7 @@ The Tasks can be *edited/modified* and *mark as completed once done*. It even pr
 5. Click on the link provided in the email to activate your account
 6. You are now logged in.
 
-###🆕 Creating a new Task
+### 🆕 Creating a new Task
 
 1. Click on the **New Task** 📃 on the top right corner od the screen
 2. Write in the Task Name in the field provided
@@ -26,14 +26,14 @@ The Tasks can be *edited/modified* and *mark as completed once done*. It even pr
 5. Click **Save**  to save the task
 6. The Task will Appear on the Left side on the page
 
-###📝 Mofify 
+### 📝 Mofify 
 
 1. To **Edit** an existing Task click on the Tasks that appear on the Left side of your screen
 2. Clicking a Task will bring up all the details of the Task
 3. Edit the Task
 4. Click **Save**  to save the task 
 
-###🗑️ Delete a Task
+### 🗑️ Delete a Task
 
 1. To **Delete** an existing Task click on the Tasks that appear on the Left side of your screen
 2. Clicking a Task will bring up all the details of the Task
@@ -41,7 +41,7 @@ The Tasks can be *edited/modified* and *mark as completed once done*. It even pr
 4. Click on Yes on the confirmation box
 5. The task gets deleted
 
-###✅ Marking a Task as Completed
+## ✅ Marking a Task as Completed
 
 1. Select an existing Task.
 2. If the Task in completed, select the Mark as Complete Button right next to the Save and Delete Buttons.
