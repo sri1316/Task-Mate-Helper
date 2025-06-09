@@ -44,10 +44,12 @@ The Voice Mate can be used to do various tasks, some of which are listed bewow
 
 - **Q:I am unable to us the App on my Mobile Device**
   **A:** Close the app, check Internet Connectivity and try loading the app again.
-- 
+
+
+  #### This is a markdown test section
+
+  <details>
+     <summary>Click here to read</summary>
+     This is a section you come to only if you need to read extra detials about this project
+     
   
-
-   
-
-   
-
