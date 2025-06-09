@@ -53,7 +53,8 @@ The Voice Mate can be used to do various tasks, some of which are listed bewow
   <details>
      <summary>Read here</summary>
      This is a section you come to only if you need to read extra detials about this project
-
+　<\details>
+ 
   #### Creating diagrams
 
   ```mermaid
