@@ -48,8 +48,21 @@ The Voice Mate can be used to do various tasks, some of which are listed bewow
 
   #### This is a markdown test section
 
+  #### Creating collapsible section
+
   <details>
      <summary>Read here</summary>
      This is a section you come to only if you need to read extra detials about this project
+
+  #### Creating diagrams
+
+  ```mermaid
+  graph TD
+A[Start] --> B{Decision}
+B -->|Yes| C[Action 1]
+B -->|No| D[Action 2]
+C --> E[End]
+D --> E[End]
+
      
   
