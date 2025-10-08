@@ -2,9 +2,8 @@
 
 ## User Guide 
 
-- [Intro](#introduction)
-- [Getting started](#getting-started)
-- [Delete](delete-a-task)
+- [Inrto](#introduction)
+- [Delete](#delete-a-task)
 
 
 ### Introduction
@@ -89,6 +88,7 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 
 - **Q: Is there a limit to the number of tasks I can create?**  
   **A:** Absolutely not! Create as many tasks as you need.
+
 
 
 
