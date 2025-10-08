@@ -2,6 +2,11 @@
 
 ## User Guide 
 
+- [Intro](#introduction)
+- [Getting started](#getting-started)
+- [Delete](delete-a-task)
+
+
 ### Introduction
 
 **TASK MATE** App is used to Create , Manage and Organize Tasks according to the Date.
@@ -84,6 +89,7 @@ The Tasks can be *edited/modified* and *mark as completed* once done. It even pr
 
 - **Q: Is there a limit to the number of tasks I can create?**  
   **A:** Absolutely not! Create as many tasks as you need.
+
 
 
 
