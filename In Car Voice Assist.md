@@ -1,6 +1,6 @@
 # HOW TO ACTIVATE VOICE MATE - YOUR IN CAR VOICE ASSISTANT
 
-![Fooj](Untitled.jpg)
+![Fooj](img/OIP.jfif)
 
 ## Introduction
 This Document will giude you through the steps required to activate the In Car Voice Assistant System on yor Infotainment System as well as your mobile phone *(ANDROID/IOS)* 
