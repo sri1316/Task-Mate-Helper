@@ -7,7 +7,7 @@ This Document will giude you through the steps required to activate the In Car V
 
 ## Requirements
 A 📱 **Mobile Device** with the latest version of OS (Android or IOS)  
-A 🚗Car with an  **Infotainment Syetem** that is updated to the latest version
+A 🚗Car with an  **Infotainment Syetem** that is updated to the latest version. [(Refer to OTA Error COdes](https://github.com/sri1316/Task-Mate-Helper/blob/main/OTA%20error%20codes.md)
 
 ## ⚙️Setup Guide
 
@@ -24,7 +24,7 @@ A 🚗Car with an  **Infotainment Syetem** that is updated to the latest version
 1. Tap **Settings → VoiceMate → Enable Voice Assistant**
 2. Accept terms and conditions
 3. Toggle switch to ON
-4. On Successful set up , you will hear *VoiceMate is ready to help you*
+4. Once set up , you will hear *VoiceMate is ready to help you*
 5. The **Activation Command** is *Hey Voicemate*
 
 ## 🗣️USES

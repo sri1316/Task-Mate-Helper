@@ -14,7 +14,7 @@ Please ensure the following conditions are met before beginning the update:
 
 ## 🔄 Update Process
 
-1. A notification will appear on your infotainment screen stating:  
+1. A notification will appear on your infotainment screen which states:  
    **"A software update is available."**
 
 2. Tap `View Details` to review update information and release notes.
@@ -29,17 +29,17 @@ Please ensure the following conditions are met before beginning the update:
 6. A progress bar will display the update status.  
    The system will restart during this process. Please allow **15–20 minutes**.
 
-7. After installation, a message will confirm:  
+7. After setting up, a message will confirm:  
    ✅ **"Update installed successfully."**
 
-## ⚠️ Warnings
+## ⚠️ Warning
 
 - ❗ **Do not drive the vehicle during the update process.** Driving will cancel the installation.
-- 📶 Ensure your internet connection remains stable throughout the download.
+- 📶 Ensure your internet connection remains stable throughout the download.In case of unstable network please start the update process from　Step1
 - 🔋 If the battery drops below 20% during the update, the process may fail.
 - 🎧 All infotainment functions (e.g., navigation, media, phone calls) will be **unavailable** during installation.
 
-## 💡 Troubleshooting
+## 💡 Troubleshootin
 
 - **Update won't start?**  
   → Check that your car is parked, has Wi-Fi access, and meets battery requirements.
