@@ -11,12 +11,12 @@ Please ensure that the following conditions are met:
 3. A **Wi-Fi connection** is required to download the update.
 4. The vehicle must be running **firmware version 4.5** or later to support OTA updates.
 
-## Update Process Flow
+## Update Process Flow 
 
-1. You will receive a notification on your infotainment screen about the latest available update
+1. You will get a notification on your infotainment screen about the latest available update thst is ready to be installed
 2. click on **Update Now** button
 3. Read through the Terms and Conditon and click on **Accept** Button
-4. The update will start and the status of update will be shown on the progress bar
+4. The status of update will be shown on the progress bar
 5. Once the Upadate is complete, there will be a prompt to **Restart** the Infotainment System
 6. Click **OK** and wait for the System to Restart
 7. The Updates are now complete
